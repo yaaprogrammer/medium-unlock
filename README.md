@@ -1,5 +1,5 @@
 # Medium Unlock
-[English](README.md) | [中文](README-zh.md) 
+[English](https://github.com/yaaprogrammer/medium-unlock) | [中文](https://github.com/yaaprogrammer/medium-unlock/blob/main/README-zh.md)
 ___
 Automatically detect Medium articles (including subdomains and custom domains) and replace the URL with scribe.rip to unlock Medium articles.
 ___
@@ -27,7 +27,7 @@ The automated replacement method suggested by [scribe.rip](https://scribe.rip) i
 ![](https://raw.githubusercontent.com/yaaprogrammer/medium-unlock/main/image/example-mobile.png)
 
 ## LICENSE
-[MIT LICENSE](LICENSE)
+[MIT LICENSE](https://mit-license.org/)
 
 ## Github
 [medium-unlock](https://github.com/yaaprogrammer/medium-unlock)

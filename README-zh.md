@@ -1,5 +1,5 @@
 # Medium Unlock
-[English](README.md) | [中文](README-zh.md)
+[English](https://github.com/yaaprogrammer/medium-unlock) | [中文](https://github.com/yaaprogrammer/medium-unlock/blob/main/README-zh.md)
 ___
 自动检测Medium文章（包括子域名和自定义域名），替换URL为scribe.rip来解锁Medium付费文章
 ## 使用方法
@@ -27,7 +27,7 @@ scribe.rip官方给出的自动化替换URL方式为[LibRedirect](https://libred
 ![](https://raw.githubusercontent.com/yaaprogrammer/medium-unlock/main/image/example-mobile.png)
 
 ## LICENSE
-[MIT LICENSE](LICENSE)
+[MIT LICENSE](https://mit-license.org/)
 
 ## Github
 [medium-unlock](https://github.com/yaaprogrammer/medium-unlock)
