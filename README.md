@@ -3,6 +3,10 @@
 ___
 Automatically detect Medium articles (including subdomains and custom domains) and replace the URL with scribe.rip to unlock Medium articles.
 ___
+## Install
+First you need to install a user script manager, depending on the browser you are currently using, [select a user script manager](https://greasyfork.org/en).
+
+Click on the [Medium Unlocked](https://greasyfork.org/en/scripts/457837-medium%E8%A7%A3%E9%94%81) page to install it, or copy the entire contents of main.js to add the script manually.
 ## Usage
 Click on the green hoverball that appears on the article page, if this ball does not appear please check if your script has been installed correctly
 ## How the plugin works
@@ -31,3 +35,6 @@ The automated replacement method suggested by [scribe.rip](https://scribe.rip) i
 
 ## Github
 [medium-unlock](https://github.com/yaaprogrammer/medium-unlock)
+
+## Greasyfork
+[Medium Unlock](https://greasyfork.org/scripts/457837-medium%E8%A7%A3%E9%94%81)

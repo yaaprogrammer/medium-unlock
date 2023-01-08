@@ -3,7 +3,7 @@
 // @name:en        Medium Unlock
 // @name:zh        Medium解锁
 // @namespace      https://github.com/yaaprogrammer
-// @version        1.0
+// @version        1.1
 // @description    自动检测Medium文章（包括子域名和自定义域名），替换URL为scribe.rip来解锁Medium付费文章
 // @description:en Automatically detect Medium articles (including subdomains and custom domains) and replace the URL with scribe.rip to unlock Medium Posts.
 // @author         Yaap

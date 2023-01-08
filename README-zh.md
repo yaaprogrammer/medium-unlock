@@ -2,6 +2,13 @@
 [English](https://github.com/yaaprogrammer/medium-unlock) | [中文](https://github.com/yaaprogrammer/medium-unlock/blob/main/README-zh.md)
 ___
 自动检测Medium文章（包括子域名和自定义域名），替换URL为scribe.rip来解锁Medium付费文章
+## 安装脚本
+首先需要安装一个用户脚本管理器,根据当前使用的浏览器来[选择一个用户脚本管理器](https://greasyfork.org/zh-CN)。
+
+[Medium 解锁](https://greasyfork.org/zh-CN/scripts/457837-medium%E8%A7%A3%E9%94%81)页面点击安装，或者直接复制main.js的全部内容手动添加脚本。
+
+### Via浏览器
+兼容[Via浏览器](https://viayoo.com/)，移动端用户可使用via浏览器，手动复制main.js的全部内容添加脚本。
 ## 使用方法
 点击文章页面出现的绿色悬浮球
 ## 插件原理
@@ -31,3 +38,6 @@ scribe.rip官方给出的自动化替换URL方式为[LibRedirect](https://libred
 
 ## Github
 [medium-unlock](https://github.com/yaaprogrammer/medium-unlock)
+
+## Greasyfork
+[Medium Unlock](https://greasyfork.org/scripts/457837-medium%E8%A7%A3%E9%94%81)
