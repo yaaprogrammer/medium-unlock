@@ -14,10 +14,11 @@
 
 (function () {
     "use strict";
-    if (document.scripts.length) {
-        if (document.body.outerHTML.lastIndexOf("cdn-client.medium.com") < 0) {
-            return;
-        }
+    if (!document.scripts.length) {
+        return;
+    }
+    if (document.body.outerHTML.lastIndexOf("cdn-client.medium.com") < 0) {
+        return;
     }
     const key = encodeURIComponent('Yaap:Medium Unlock:Start');
     if (window[key]) {
