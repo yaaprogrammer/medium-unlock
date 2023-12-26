@@ -7,7 +7,8 @@
 // @description    自动检测Medium文章（包括子域名和自定义域名），替换URL为scribe.rip来解锁Medium付费文章
 // @description:en Automatically detect Medium articles (including subdomains and custom domains) and replace the URL with scribe.rip to unlock Medium Posts.
 // @author         Yaap
-// @match          *://*/*
+// @include        *://medium.com/*
+// @include        *://*.medium.com/*
 // @grant          none
 // @license        MIT
 // ==/UserScript==
